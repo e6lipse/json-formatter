@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>JSON Formatter</title>
+  </head>
+  <body>
+    <div class="container">
+      <textarea class="large-area large-area--input"></textarea>
+      <div class="controls">
+        <button type="button" class="controls__button controls__button--format">
+          Format
+        </button>
+        <button
+          class="clear-button controls__button"
+          data-clear-selector="textarea"
+        >
+          Reset
+        </button>
+      </div>
+      <textarea readonly class="large-area large-area--output"></textarea>
+    </div>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>
