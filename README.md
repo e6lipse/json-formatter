@@ -11,26 +11,27 @@
 
 //
 ### Output:
-
-    <[ <br>
-        { <br>
+<
+    [
+        {
             "id": 1, <br>
             "name": "name", <br>
             "age": 18 <br>
-        }, <br>
-        { <br>
+        },
+        {
             "id": 2, <br>
             "name": "name", <br>
             "age": 18 <br>
-        }, <br>
-        { <br>
+        },
+        {
             "id": 3, <br>
             "name": "name", <br>
             "age": 18 <br>
-        }, <br>
-        { <br>
+        },
+        {
             "id": 4, <br>
             "name": "name", <br>
             "age": 18 <br>
-        } <br>
-    ] <br>>
+        }
+    ]
+>
