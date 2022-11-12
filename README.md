@@ -2,7 +2,6 @@
 
 ## Example:
 
-//
 ### Input:
 
 [{"id": 1,"name": "name","age": 18}, <br>
