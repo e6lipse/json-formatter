@@ -12,8 +12,7 @@
 //
 ### Output:
 
-<code>
-    [ <br>
+    <[ <br>
         { <br>
             "id": 1, <br>
             "name": "name", <br>
@@ -34,5 +33,4 @@
             "name": "name", <br>
             "age": 18 <br>
         } <br>
-    ] <br>
-</code>
+    ] <br>>
